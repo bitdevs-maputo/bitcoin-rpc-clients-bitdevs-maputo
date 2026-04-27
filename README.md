@@ -141,13 +141,13 @@ Referência completa: [`docs/metodos-rpc.md`](docs/metodos-rpc.md)
 
 ## Como Contribuir
 
-Contribuições de qualquer tipo são bem-vindas! Por favor lê o [CONTRIBUTING.md](CONTRIBUTING.md) antes de abrir um pull request.
+Contribuições de qualquer tipo são bem-vindas! Por favor lê o [CONTRIBUTING.md](/docs/contributing.md) antes de abrir um pull request.
 
 ---
 
 ## Changelog
 
-Consulta o [CHANGELOG.md](CHANGELOG.md) para o histórico completo de versões.
+Consulta o [CHANGELOG.md](/docs/changelog.md) para o histórico completo de versões.
 
 ---
 
